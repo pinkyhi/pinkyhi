@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pinkyhi
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning Telegram Bots flow
-- 💞️ I’m looking to collaborate on it :)
-- 📫 How to reach me ivan.vladymyrov.ukraine@gmail.com
+- 👀 C#, TS, JS, C++, Python, AI
+- 🌱 Beer is welcome
+- 💞️ I’m looking for collaboration :)
 
 <!---
 pinkyhi/pinkyhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
